@@ -1,4 +1,4 @@
-Practice questions: Coffee Sales
+## Practice questions: Coffee Sales
 
 ### QUESTION 1:  Find the products with text string “caf” in their names (note: it can be in the beginning or in between character string).
 ### QUESTION 2: Find the total numbers of area codes in each market and state. Display in descending order of number of area codes in each market and state.
